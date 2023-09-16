@@ -1,1 +1,1 @@
-# Obsidian to GitHub Pages
+# Notes
