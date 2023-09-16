@@ -3,7 +3,7 @@ site_name: Notes
 
 nav:
   - Home: index.md
-  - Notebook: Records
+  - Notebook: Records/notebook.ipynb
 
 theme:
     name: 'material'
